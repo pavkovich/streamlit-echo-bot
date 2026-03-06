@@ -2,5 +2,5 @@ import streamlit as st
 import numpy as np
 
 with st.chat_message("assistant"):
-    st.write("You Snooze, You Loose!!! 👋")
+    st.write("What's Up Terd-Ball??? 👋")
     st.bar_chart(np.random.randn(30, 3))
